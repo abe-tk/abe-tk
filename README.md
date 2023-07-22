@@ -2,9 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abe-tk)](https://github.com/anuraghazra/github-readme-stats)
 
-# 「hoge」に自分のGitHubのアカウント名を入力
-https://github-readme-stats.vercel.app/api?username=abe-tk&count_private=true&show_icons=true&theme=dracula
-
 <!--
 **abe-tk/abe-tk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
