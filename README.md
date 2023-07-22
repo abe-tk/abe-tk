@@ -6,7 +6,7 @@
 
 * 📱 I'm Android/iOS app developer.
 * 🌱 currently learning Flutter.
-* 📰 writing articles for [Zenn](https://zenn.dev/taku_zenn).
+* 📝 writing articles for [Zenn](https://zenn.dev/taku_zenn).
 
 ## Github Stats
 
