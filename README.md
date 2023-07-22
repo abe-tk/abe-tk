@@ -1,6 +1,14 @@
-# <img src="assets/gh-readme-header.svg" />
+<div align="center">
+    <img src="assets/gh-readme-header.svg" />
+</div>
 
+## About me
 
+* 📱 I’m application systems engineer.
+* 🌱 currently learning Flutter.
+* 📰 writing articles for [Zenn](https://zenn.dev/taku_zenn).
+
+## GitHub Readme Stats
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abe-tk&theme=dark&show_icons=true">
