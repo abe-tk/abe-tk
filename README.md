@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abe-tk&show_icons=true&icon_color=dfb941&bg_color=30,ada996,f2f2f2,dbdbdb,eaeaea&title_color=000&text_color=000" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abe-tk&show_icons=true&icon_color=888800&bg_color=30,ada996,f2f2f2,dbdbdb,eaeaea&title_color=000&text_color=000" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&layout=compact&bg_color=30,ada996,f2f2f2,dbdbdb,eaeaea&title_color=000&text_color=000" />
