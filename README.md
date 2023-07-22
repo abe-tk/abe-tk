@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/gh-readme-header.svg" />
-</p>
+# <img src="assets/gh-readme-header.svg" />
+
+
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abe-tk&theme=dark&show_icons=true">
