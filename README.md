@@ -8,7 +8,7 @@
 * 🌱 currently learning Flutter.
 * 📰 writing articles for [Zenn](https://zenn.dev/taku_zenn).
 
-## Statistics
+## Github Stats
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abe-tk&theme=dark&show_icons=true">
