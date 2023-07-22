@@ -7,5 +7,5 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&theme=dark&layout=compacts">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&layout=compacts">
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&layout=compacts">
 </picture>
