@@ -4,7 +4,12 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abe-tk&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=abe-tk&show_icons=true">
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=abe-tk&show_icons=true">
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abe-tk&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&layout=compacts&how_icons=true">
 </picture>
 
 <!--
