@@ -14,7 +14,7 @@
 <img width=500 src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" alt="GitHub-Mark-Dark">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abe-tk&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abe-tk&show_icons=true&theme=dark"#gh-dark-mode-only" alt="GitHub-Mark-Light" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
