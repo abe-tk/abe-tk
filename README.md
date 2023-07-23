@@ -4,7 +4,7 @@
 
 ## About me
 
-* 📱 I'm mobile application engineer
+* 📱 I'm application engineer.
 * 🌱 currently learning Flutter.
 * 📝 writing articles for [Zenn](https://zenn.dev/taku_zenn).
 
