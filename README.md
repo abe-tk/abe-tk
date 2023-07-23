@@ -6,7 +6,11 @@
 
 * 📱 I'm application engineer
 * 🌱 currently learning Flutter
-* 📝 writing articles for [Zenn](https://zenn.dev/taku_zenn)
+
+## Zenn
+[![Likes](https://badgen.org/img/zenn/taku_zenn/likes?style=plastic)](https://zenn.dev/taku_zenn)
+[![Followers](https://badgen.org/img/zenn/taku_zenn/followers?style=plastic)](https://zenn.dev/taku_zenn)
+[![Articles](https://badgen.org/img/zenn/taku_zenn/articles?style=plastic)](https://zenn.dev/taku_zenn)
 
 ## Github Stats
 
