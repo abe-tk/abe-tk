@@ -10,12 +10,15 @@
 
 ## Github Stats
 
-<picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abe-tk&theme=dark&show_icons=true">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=abe-tk&show_icons=true">
-</picture>
-
-<picture>
+    <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=abe-tk&show_icons=true">
+  </picture>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&theme=dark&layout=compact">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&layout=compact">
-</picture>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&layout=compact">
+  </picture>
+</a>
