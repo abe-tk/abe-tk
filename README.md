@@ -13,12 +13,12 @@
 <a href="https://github.com/abe-tk/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abe-tk&theme=dark&show_icons=true">
-    <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=abe-tk&show_icons=true">
+    <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=abe-tk&show_icons=true">
   </picture>
 </a>
 <a href="https://github.com/abe-tk/convoychat">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&theme=dark&layout=compact">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&layout=compact">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&layout=compact">
   </picture>
 </a>
