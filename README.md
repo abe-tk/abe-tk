@@ -7,11 +7,6 @@
 * 📱 I'm application engineer
 * 🌱 currently learning Flutter
 
-## Zenn
-[![Likes](https://badgen.org/img/zenn/taku_zenn/likes?style=plastic)](https://zenn.dev/taku_zenn)
-[![Followers](https://badgen.org/img/zenn/taku_zenn/followers?style=plastic)](https://zenn.dev/taku_zenn)
-[![Articles](https://badgen.org/img/zenn/taku_zenn/articles?style=plastic)](https://zenn.dev/taku_zenn)
-
 ## Github Stats
 
 <a href="https://github.com/abe-tk/github-readme-stats">
@@ -26,3 +21,8 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abe-tk&layout=compact">
   </picture>
 </a>
+
+## Zenn
+[![Likes](https://badgen.org/img/zenn/taku_zenn/likes?style=plastic)](https://zenn.dev/taku_zenn)
+[![Followers](https://badgen.org/img/zenn/taku_zenn/followers?style=plastic)](https://zenn.dev/taku_zenn)
+[![Articles](https://badgen.org/img/zenn/taku_zenn/articles?style=plastic)](https://zenn.dev/taku_zenn)
