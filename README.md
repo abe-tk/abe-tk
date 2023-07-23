@@ -4,9 +4,9 @@
 
 ## About me
 
-* 📱 I'm application engineer.
-* 🌱 currently learning Flutter.
-* 📝 writing articles for [Zenn](https://zenn.dev/taku_zenn).
+* 📱 I'm application engineer
+* 🌱 currently learning Flutter
+* 📝 writing articles for [Zenn](https://zenn.dev/taku_zenn)
 
 ## Github Stats
 
