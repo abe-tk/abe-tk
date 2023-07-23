@@ -4,6 +4,6 @@
   
   <!-- テキストをカスタマイズしたフォント、カラー、太さに -->
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Comic Sans MS" font-size="24" fill="#FF5733" font-weight="bold">
-    Hi there　👋
+    Hi there👋
   </text>
 </svg>
