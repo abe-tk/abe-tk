@@ -26,7 +26,3 @@
 [![Likes](https://badgen.org/img/zenn/taku_zenn/likes?style=plastic)](https://zenn.dev/taku_zenn)
 [![Followers](https://badgen.org/img/zenn/taku_zenn/followers?style=plastic)](https://zenn.dev/taku_zenn)
 [![Articles](https://badgen.org/img/zenn/taku_zenn/articles?style=plastic)](https://zenn.dev/taku_zenn)
-
-## Scrapbox
-
-https://scrapbox.io/taku-scrapbox/
