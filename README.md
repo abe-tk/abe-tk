@@ -7,7 +7,7 @@
 * 📱 I'm application engineer
 * 🌱 currently learning
     * Dart Flutter
-    * TypeScript Express Node.js
+    * TypeScript Node.js Express
     * Go
 
 ## Github Stats
