@@ -5,7 +5,10 @@
 ## About me
 
 * 📱 I'm application engineer
-* 🌱 currently learning Flutter
+* 🌱 currently learning
+    * dart/Flutter
+    * typeScript/Express
+    * Go
 
 ## Github Stats
 
