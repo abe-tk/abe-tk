@@ -5,8 +5,7 @@
 ## About me
 
 * 📱 I'm application engineer
-* 🌱 currently learning
-    * Dart Flutter
+* 🌱 currently learning Dart Flutter
 
 ## Github Stats
 
